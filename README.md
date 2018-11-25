@@ -1,5 +1,7 @@
-# customer-journey-templates
+# Journey kit
 Sketch templates for laying out customer journeys
+
+
 
 Compatible with figma, just import the file
 
