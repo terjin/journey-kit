@@ -1,7 +1,9 @@
 # Journey kit
 Sketch templates for laying out customer journeys
 
+![Library previeqw](https://github.com/terjin/journey-kit/blob/master/Preview.png)
 
+# first example in library is just a preview! change the channels on the left to suit your journey
 
 Compatible with figma, just import the file
 
@@ -10,6 +12,6 @@ Discover > Compare > Apply
 Discover > Apply > Use
 Discover > Use
 
-Mix and match based on what is most appropriate to the journey you're laying out.
+# Mix and match based on what is most appropriate to the journey you're laying out.
 
-Use my flow arrrows to describe a flow between screens or actions.
+# Use my [flow arrrows!](https://github.com/terjin/flow-kit) to describe a flow between screens and annotate experience notes.
